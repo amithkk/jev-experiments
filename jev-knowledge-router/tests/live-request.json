@@ -1,0 +1,37 @@
+{
+  "task": "Investigate why checkout requests started returning 503 after a deployment and draft an update for affected customers.",
+  "resources": [
+    {
+      "id": "runbook",
+      "kind": "knowledge",
+      "name": "Incident runbooks",
+      "description": "Outage playbooks and system maps.",
+      "activateWhen": "Investigating production failures and elevated errors.",
+      "avoidWhen": "The task is only general product planning."
+    },
+    {
+      "id": "brand",
+      "kind": "knowledge",
+      "name": "Brand assets",
+      "description": "Visual identity, logos, and image usage.",
+      "activateWhen": "Making visual marketing assets.",
+      "avoidWhen": "The task is incident diagnosis or operational communication."
+    },
+    {
+      "id": "code",
+      "kind": "agent",
+      "name": "Code investigator",
+      "description": "Traces source code and tests hypotheses.",
+      "activateWhen": "The task needs debugging or code inspection.",
+      "avoidWhen": "The task only needs a prose summary."
+    },
+    {
+      "id": "support",
+      "kind": "agent",
+      "name": "Support writer",
+      "description": "Drafts customer updates and support replies.",
+      "activateWhen": "The task includes a customer-facing update.",
+      "avoidWhen": "The task is only internal engineering work."
+    }
+  ]
+}

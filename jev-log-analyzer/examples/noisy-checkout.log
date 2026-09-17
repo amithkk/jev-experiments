@@ -1,0 +1,240 @@
+2026-09-17T14:00:00Z INFO service=metrics scrape complete targets=866 duration_ms=109
+2026-09-17T14:00:01Z INFO service=search index batch complete documents=336 duration_ms=96
+2026-09-17T14:00:02Z INFO service=auth token refresh status=ok latency_ms=74 session=s-0003
+2026-09-17T14:00:03Z INFO service=catalog GET /products status=200 latency_ms=66 request_id=req-0004
+2026-09-17T14:00:04Z INFO service=inventory stock sync complete skus=298 duration_ms=110
+2026-09-17T14:00:05Z INFO service=inventory stock sync complete skus=861 duration_ms=131
+2026-09-17T14:00:06Z INFO service=search index batch complete documents=180 duration_ms=105
+2026-09-17T14:00:07Z INFO service=metrics scrape complete targets=183 duration_ms=18
+2026-09-17T14:00:08Z INFO service=inventory stock sync complete skus=194 duration_ms=53
+2026-09-17T14:00:09Z INFO service=notifications delivery batch complete sent=612 retries=0
+2026-09-17T14:00:10Z INFO service=inventory stock sync complete skus=378 duration_ms=56
+2026-09-17T14:00:11Z INFO service=metrics scrape complete targets=772 duration_ms=34
+2026-09-17T14:00:12Z INFO service=notifications delivery batch complete sent=356 retries=0
+2026-09-17T14:00:13Z INFO service=recommendations feature cache refreshed entries=559 duration_ms=23
+2026-09-17T14:00:14Z INFO service=inventory stock sync complete skus=695 duration_ms=124
+2026-09-17T14:00:15Z INFO service=metrics scrape complete targets=738 duration_ms=39
+2026-09-17T14:00:16Z INFO service=inventory stock sync complete skus=872 duration_ms=107
+2026-09-17T14:00:17Z INFO service=metrics scrape complete targets=58 duration_ms=89
+2026-09-17T14:00:18Z INFO service=recommendations feature cache refreshed entries=625 duration_ms=98
+2026-09-17T14:00:19Z INFO service=catalog GET /products status=200 latency_ms=93 request_id=req-0020
+2026-09-17T14:00:20Z INFO service=recommendations feature cache refreshed entries=633 duration_ms=98
+2026-09-17T14:00:21Z INFO service=inventory stock sync complete skus=455 duration_ms=4
+2026-09-17T14:00:22Z INFO service=auth token refresh status=ok latency_ms=32 session=s-0023
+2026-09-17T14:00:23Z INFO service=auth token refresh status=ok latency_ms=66 session=s-0024
+2026-09-17T14:00:24Z INFO service=search index batch complete documents=313 duration_ms=17
+2026-09-17T14:00:25Z INFO service=catalog GET /products status=200 latency_ms=73 request_id=req-0026
+2026-09-17T14:00:26Z INFO service=notifications delivery batch complete sent=606 retries=0
+2026-09-17T14:00:27Z INFO service=auth token refresh status=ok latency_ms=67 session=s-0028
+2026-09-17T14:00:28Z INFO service=search index batch complete documents=366 duration_ms=92
+2026-09-17T14:00:29Z INFO service=auth token refresh status=ok latency_ms=88 session=s-0030
+2026-09-17T14:00:30Z INFO service=metrics scrape complete targets=383 duration_ms=72
+2026-09-17T14:00:31Z INFO service=catalog GET /products status=200 latency_ms=15 request_id=req-0032
+2026-09-17T14:00:32Z INFO service=search index batch complete documents=518 duration_ms=7
+2026-09-17T14:00:33Z INFO service=notifications delivery batch complete sent=525 retries=0
+2026-09-17T14:00:34Z INFO service=notifications delivery batch complete sent=786 retries=0
+2026-09-17T14:00:35Z INFO service=auth token refresh status=ok latency_ms=82 session=s-0036
+2026-09-17T14:00:36Z INFO service=catalog GET /products status=200 latency_ms=127 request_id=req-0037
+2026-09-17T14:00:37Z INFO service=metrics scrape complete targets=742 duration_ms=137
+2026-09-17T14:00:38Z INFO service=auth token refresh status=ok latency_ms=106 session=s-0039
+2026-09-17T14:00:39Z INFO service=notifications delivery batch complete sent=227 retries=0
+2026-09-17T14:00:40Z INFO service=auth token refresh status=ok latency_ms=67 session=s-0041
+2026-09-17T14:00:41Z INFO service=notifications delivery batch complete sent=257 retries=0
+2026-09-17T14:00:42Z INFO service=catalog GET /products status=200 latency_ms=140 request_id=req-0043
+2026-09-17T14:00:43Z INFO service=inventory stock sync complete skus=870 duration_ms=83
+2026-09-17T14:00:44Z INFO service=search index batch complete documents=205 duration_ms=15
+2026-09-17T14:00:45Z INFO service=recommendations feature cache refreshed entries=747 duration_ms=26
+2026-09-17T14:00:46Z INFO service=inventory stock sync complete skus=899 duration_ms=82
+2026-09-17T14:00:47Z INFO service=search index batch complete documents=531 duration_ms=106
+2026-09-17T14:00:48Z INFO service=catalog GET /products status=200 latency_ms=24 request_id=req-0049
+2026-09-17T14:00:49Z INFO service=notifications delivery batch complete sent=270 retries=0
+2026-09-17T14:00:50Z INFO service=metrics scrape complete targets=629 duration_ms=70
+2026-09-17T14:00:51Z INFO service=auth token refresh status=ok latency_ms=78 session=s-0052
+2026-09-17T14:00:52Z INFO service=notifications delivery batch complete sent=640 retries=0
+2026-09-17T14:00:53Z INFO service=recommendations feature cache refreshed entries=267 duration_ms=127
+2026-09-17T14:00:54Z INFO service=metrics scrape complete targets=568 duration_ms=107
+2026-09-17T14:00:55Z INFO service=notifications delivery batch complete sent=119 retries=0
+2026-09-17T14:00:56Z INFO service=recommendations feature cache refreshed entries=274 duration_ms=58
+2026-09-17T14:00:57Z INFO service=recommendations feature cache refreshed entries=879 duration_ms=84
+2026-09-17T14:00:58Z INFO service=auth token refresh status=ok latency_ms=96 session=s-0059
+2026-09-17T14:00:59Z INFO service=catalog GET /products status=200 latency_ms=135 request_id=req-0060
+2026-09-17T14:01:00Z INFO service=catalog GET /products status=200 latency_ms=87 request_id=req-0061
+2026-09-17T14:01:01Z INFO service=auth token refresh status=ok latency_ms=62 session=s-0062
+2026-09-17T14:01:02Z INFO service=search index batch complete documents=216 duration_ms=97
+2026-09-17T14:01:03Z INFO service=inventory stock sync complete skus=350 duration_ms=57
+2026-09-17T14:01:04Z INFO service=recommendations feature cache refreshed entries=499 duration_ms=94
+2026-09-17T14:01:05Z INFO service=metrics scrape complete targets=571 duration_ms=26
+2026-09-17T14:01:06Z INFO service=catalog GET /products status=200 latency_ms=136 request_id=req-0067
+2026-09-17T14:01:07Z INFO service=auth token refresh status=ok latency_ms=48 session=s-0068
+2026-09-17T14:01:08Z INFO service=recommendations feature cache refreshed entries=556 duration_ms=117
+2026-09-17T14:01:09Z INFO service=auth token refresh status=ok latency_ms=140 session=s-0070
+2026-09-17T14:01:10Z INFO service=recommendations feature cache refreshed entries=52 duration_ms=118
+2026-09-17T14:01:11Z INFO service=deploy rollout started service=checkout version=2026.09.17-b
+2026-09-17T14:01:12Z INFO service=search index batch complete documents=228 duration_ms=70
+2026-09-17T14:01:13Z INFO service=deploy rollout completed service=checkout version=2026.09.17-b status=healthy
+2026-09-17T14:01:14Z WARN service=checkout database pool configured max_connections=4 previous_max=24 version=2026.09.17-b
+2026-09-17T14:01:15Z INFO service=catalog GET /products status=200 latency_ms=122 request_id=req-0076
+2026-09-17T14:01:16Z INFO service=inventory stock sync complete skus=256 duration_ms=87
+2026-09-17T14:01:17Z INFO service=catalog GET /products status=200 latency_ms=71 request_id=req-0078
+2026-09-17T14:01:18Z INFO service=metrics scrape complete targets=68 duration_ms=6
+2026-09-17T14:01:19Z INFO service=catalog GET /products status=200 latency_ms=123 request_id=req-0080
+2026-09-17T14:01:20Z INFO service=search index batch complete documents=838 duration_ms=55
+2026-09-17T14:01:21Z INFO service=catalog GET /products status=200 latency_ms=9 request_id=req-0082
+2026-09-17T14:01:22Z INFO service=metrics scrape complete targets=704 duration_ms=59
+2026-09-17T14:01:23Z WARN service=checkout db connection acquire slow wait_ms=910 active=4 queued=27 pool_max=4
+2026-09-17T14:01:24Z ERROR service=checkout POST /orders failed reason=db_connection_acquire_timeout wait_ms=1000 trace_id=tr-checkout-01
+2026-09-17T14:01:25Z ERROR service=gateway POST /orders status=503 upstream=checkout trace_id=tr-checkout-01
+2026-09-17T14:01:26Z INFO service=catalog GET /products status=200 latency_ms=105 request_id=req-0087
+2026-09-17T14:01:27Z INFO service=catalog GET /products status=200 latency_ms=112 request_id=req-0088
+2026-09-17T14:01:28Z INFO service=notifications delivery batch complete sent=232 retries=0
+2026-09-17T14:01:29Z INFO service=metrics scrape complete targets=315 duration_ms=70
+2026-09-17T14:01:30Z INFO service=search index batch complete documents=596 duration_ms=91
+2026-09-17T14:01:31Z INFO service=metrics scrape complete targets=455 duration_ms=109
+2026-09-17T14:01:32Z INFO service=catalog GET /products status=200 latency_ms=137 request_id=req-0093
+2026-09-17T14:01:33Z INFO service=search index batch complete documents=815 duration_ms=23
+2026-09-17T14:01:34Z INFO service=notifications delivery batch complete sent=681 retries=0
+2026-09-17T14:01:35Z INFO service=notifications delivery batch complete sent=373 retries=0
+2026-09-17T14:01:36Z INFO service=search index batch complete documents=382 duration_ms=33
+2026-09-17T14:01:37Z INFO service=auth token refresh status=ok latency_ms=140 session=s-0098
+2026-09-17T14:01:38Z INFO service=auth token refresh status=ok latency_ms=129 session=s-0099
+2026-09-17T14:01:39Z INFO service=search index batch complete documents=167 duration_ms=116
+2026-09-17T14:01:40Z INFO service=search index batch complete documents=115 duration_ms=66
+2026-09-17T14:01:41Z INFO service=notifications delivery batch complete sent=357 retries=0
+2026-09-17T14:01:42Z INFO service=notifications delivery batch complete sent=534 retries=0
+2026-09-17T14:01:43Z INFO service=search index batch complete documents=258 duration_ms=35
+2026-09-17T14:01:44Z INFO service=metrics scrape complete targets=843 duration_ms=41
+2026-09-17T14:01:45Z INFO service=search index batch complete documents=486 duration_ms=24
+2026-09-17T14:01:46Z INFO service=recommendations feature cache refreshed entries=437 duration_ms=138
+2026-09-17T14:01:47Z INFO service=inventory stock sync complete skus=658 duration_ms=136
+2026-09-17T14:01:48Z INFO service=inventory stock sync complete skus=719 duration_ms=42
+2026-09-17T14:01:49Z INFO service=metrics scrape complete targets=208 duration_ms=39
+2026-09-17T14:01:50Z INFO service=metrics scrape complete targets=364 duration_ms=139
+2026-09-17T14:01:51Z INFO service=recommendations feature cache refreshed entries=456 duration_ms=75
+2026-09-17T14:01:52Z INFO service=catalog GET /products status=200 latency_ms=63 request_id=req-0113
+2026-09-17T14:01:53Z INFO service=notifications delivery batch complete sent=836 retries=0
+2026-09-17T14:01:54Z INFO service=auth token refresh status=ok latency_ms=112 session=s-0115
+2026-09-17T14:01:55Z INFO service=search index batch complete documents=808 duration_ms=116
+2026-09-17T14:01:56Z INFO service=metrics scrape complete targets=335 duration_ms=35
+2026-09-17T14:01:57Z INFO service=auth token refresh status=ok latency_ms=129 session=s-0118
+2026-09-17T14:01:58Z INFO service=metrics scrape complete targets=421 duration_ms=51
+2026-09-17T14:01:59Z INFO service=catalog GET /products status=200 latency_ms=34 request_id=req-0120
+2026-09-17T14:02:00Z INFO service=recommendations feature cache refreshed entries=480 duration_ms=22
+2026-09-17T14:02:01Z INFO service=catalog GET /products status=200 latency_ms=134 request_id=req-0122
+2026-09-17T14:02:02Z INFO service=auth token refresh status=ok latency_ms=46 session=s-0123
+2026-09-17T14:02:03Z INFO service=search index batch complete documents=335 duration_ms=21
+2026-09-17T14:02:04Z INFO service=search index batch complete documents=369 duration_ms=121
+2026-09-17T14:02:05Z INFO service=auth token refresh status=ok latency_ms=41 session=s-0126
+2026-09-17T14:02:06Z INFO service=search index batch complete documents=432 duration_ms=81
+2026-09-17T14:02:07Z INFO service=inventory stock sync complete skus=628 duration_ms=86
+2026-09-17T14:02:08Z INFO service=metrics scrape complete targets=486 duration_ms=39
+2026-09-17T14:02:09Z INFO service=catalog GET /products status=200 latency_ms=68 request_id=req-0130
+2026-09-17T14:02:10Z INFO service=auth token refresh status=ok latency_ms=57 session=s-0131
+2026-09-17T14:02:11Z INFO service=inventory stock sync complete skus=899 duration_ms=97
+2026-09-17T14:02:12Z INFO service=notifications delivery batch complete sent=424 retries=0
+2026-09-17T14:02:13Z INFO service=search index batch complete documents=355 duration_ms=23
+2026-09-17T14:02:14Z INFO service=recommendations feature cache refreshed entries=363 duration_ms=55
+2026-09-17T14:02:15Z INFO service=catalog GET /products status=200 latency_ms=12 request_id=req-0136
+2026-09-17T14:02:16Z INFO service=metrics scrape complete targets=400 duration_ms=18
+2026-09-17T14:02:17Z INFO service=notifications delivery batch complete sent=453 retries=0
+2026-09-17T14:02:18Z INFO service=recommendations feature cache refreshed entries=745 duration_ms=69
+2026-09-17T14:02:19Z INFO service=search index batch complete documents=830 duration_ms=118
+2026-09-17T14:02:20Z INFO service=auth token refresh status=ok latency_ms=109 session=s-0141
+2026-09-17T14:02:21Z INFO service=auth token refresh status=ok latency_ms=56 session=s-0142
+2026-09-17T14:02:22Z INFO service=notifications delivery batch complete sent=275 retries=0
+2026-09-17T14:02:23Z INFO service=inventory stock sync complete skus=113 duration_ms=100
+2026-09-17T14:02:24Z INFO service=recommendations feature cache refreshed entries=403 duration_ms=53
+2026-09-17T14:02:25Z INFO service=notifications delivery batch complete sent=840 retries=0
+2026-09-17T14:02:26Z INFO service=auth token refresh status=ok latency_ms=126 session=s-0147
+2026-09-17T14:02:27Z INFO service=recommendations feature cache refreshed entries=174 duration_ms=25
+2026-09-17T14:02:28Z INFO service=auth token refresh status=ok latency_ms=114 session=s-0149
+2026-09-17T14:02:29Z INFO service=recommendations feature cache refreshed entries=741 duration_ms=61
+2026-09-17T14:02:30Z INFO service=recommendations feature cache refreshed entries=537 duration_ms=99
+2026-09-17T14:02:31Z INFO service=search index batch complete documents=374 duration_ms=64
+2026-09-17T14:02:32Z INFO service=recommendations feature cache refreshed entries=217 duration_ms=57
+2026-09-17T14:02:33Z INFO service=recommendations feature cache refreshed entries=524 duration_ms=5
+2026-09-17T14:02:34Z INFO service=catalog GET /products status=200 latency_ms=107 request_id=req-0155
+2026-09-17T14:02:35Z INFO service=recommendations feature cache refreshed entries=228 duration_ms=28
+2026-09-17T14:02:36Z INFO service=recommendations feature cache refreshed entries=310 duration_ms=10
+2026-09-17T14:02:37Z INFO service=recommendations feature cache refreshed entries=243 duration_ms=36
+2026-09-17T14:02:38Z INFO service=auth token refresh status=ok latency_ms=68 session=s-0159
+2026-09-17T14:02:39Z INFO service=catalog GET /products status=200 latency_ms=34 request_id=req-0160
+2026-09-17T14:02:40Z INFO service=recommendations feature cache refreshed entries=129 duration_ms=16
+2026-09-17T14:02:41Z INFO service=search index batch complete documents=584 duration_ms=69
+2026-09-17T14:02:42Z INFO service=search index batch complete documents=569 duration_ms=99
+2026-09-17T14:02:43Z INFO service=search index batch complete documents=835 duration_ms=11
+2026-09-17T14:02:44Z INFO service=notifications delivery batch complete sent=766 retries=0
+2026-09-17T14:02:45Z INFO service=metrics scrape complete targets=587 duration_ms=75
+2026-09-17T14:02:46Z INFO service=metrics scrape complete targets=760 duration_ms=21
+2026-09-17T14:02:47Z INFO service=catalog GET /products status=200 latency_ms=73 request_id=req-0168
+2026-09-17T14:02:48Z INFO service=metrics scrape complete targets=533 duration_ms=92
+2026-09-17T14:02:49Z INFO service=auth token refresh status=ok latency_ms=131 session=s-0170
+2026-09-17T14:02:50Z INFO service=catalog GET /products status=200 latency_ms=98 request_id=req-0171
+2026-09-17T14:02:51Z INFO service=recommendations feature cache refreshed entries=377 duration_ms=117
+2026-09-17T14:02:52Z INFO service=inventory stock sync complete skus=415 duration_ms=129
+2026-09-17T14:02:53Z INFO service=auth token refresh status=ok latency_ms=5 session=s-0174
+2026-09-17T14:02:54Z INFO service=inventory stock sync complete skus=396 duration_ms=32
+2026-09-17T14:02:55Z INFO service=metrics scrape complete targets=431 duration_ms=41
+2026-09-17T14:02:56Z INFO service=catalog GET /products status=200 latency_ms=23 request_id=req-0177
+2026-09-17T14:02:57Z INFO service=notifications delivery batch complete sent=152 retries=0
+2026-09-17T14:02:58Z INFO service=notifications delivery batch complete sent=187 retries=0
+2026-09-17T14:02:59Z INFO service=notifications delivery batch complete sent=600 retries=0
+2026-09-17T14:03:00Z WARN service=checkout db connection acquire slow wait_ms=987 active=4 queued=41 pool_max=4
+2026-09-17T14:03:01Z ERROR service=checkout POST /orders failed reason=db_connection_acquire_timeout wait_ms=1000 trace_id=tr-checkout-02
+2026-09-17T14:03:02Z ERROR service=gateway POST /orders status=503 upstream=checkout trace_id=tr-checkout-02
+2026-09-17T14:03:03Z INFO service=inventory stock sync complete skus=88 duration_ms=116
+2026-09-17T14:03:04Z WARN service=metrics checkout POST /orders 5xx_rate=0.36 window_seconds=60
+2026-09-17T14:03:05Z INFO service=notifications delivery batch complete sent=58 retries=0
+2026-09-17T14:03:06Z INFO service=metrics scrape complete targets=831 duration_ms=30
+2026-09-17T14:03:07Z INFO service=catalog GET /products status=200 latency_ms=38 request_id=req-0188
+2026-09-17T14:03:08Z INFO service=auth token refresh status=ok latency_ms=82 session=s-0189
+2026-09-17T14:03:09Z INFO service=notifications delivery batch complete sent=350 retries=0
+2026-09-17T14:03:10Z INFO service=metrics scrape complete targets=605 duration_ms=87
+2026-09-17T14:03:11Z INFO service=catalog GET /products status=200 latency_ms=114 request_id=req-0192
+2026-09-17T14:03:12Z INFO service=recommendations feature cache refreshed entries=689 duration_ms=3
+2026-09-17T14:03:13Z INFO service=recommendations feature cache refreshed entries=374 duration_ms=29
+2026-09-17T14:03:14Z INFO service=metrics scrape complete targets=793 duration_ms=85
+2026-09-17T14:03:15Z INFO service=recommendations feature cache refreshed entries=538 duration_ms=17
+2026-09-17T14:03:16Z INFO service=catalog GET /products status=200 latency_ms=139 request_id=req-0197
+2026-09-17T14:03:17Z INFO service=recommendations feature cache refreshed entries=662 duration_ms=79
+2026-09-17T14:03:18Z INFO service=catalog GET /products status=200 latency_ms=42 request_id=req-0199
+2026-09-17T14:03:19Z INFO service=catalog GET /products status=200 latency_ms=85 request_id=req-0200
+2026-09-17T14:03:20Z INFO service=catalog GET /products status=200 latency_ms=42 request_id=req-0201
+2026-09-17T14:03:21Z INFO service=notifications delivery batch complete sent=342 retries=0
+2026-09-17T14:03:22Z INFO service=notifications delivery batch complete sent=853 retries=0
+2026-09-17T14:03:23Z INFO service=catalog GET /products status=200 latency_ms=30 request_id=req-0204
+2026-09-17T14:03:24Z INFO service=inventory stock sync complete skus=859 duration_ms=100
+2026-09-17T14:03:25Z INFO service=catalog GET /products status=200 latency_ms=128 request_id=req-0206
+2026-09-17T14:03:26Z INFO service=recommendations feature cache refreshed entries=857 duration_ms=108
+2026-09-17T14:03:27Z INFO service=inventory stock sync complete skus=630 duration_ms=70
+2026-09-17T14:03:28Z INFO service=auth token refresh status=ok latency_ms=131 session=s-0209
+2026-09-17T14:03:29Z INFO service=recommendations feature cache refreshed entries=830 duration_ms=36
+2026-09-17T14:03:30Z INFO service=notifications delivery batch complete sent=379 retries=0
+2026-09-17T14:03:31Z INFO service=inventory stock sync complete skus=713 duration_ms=62
+2026-09-17T14:03:32Z INFO service=search index batch complete documents=362 duration_ms=123
+2026-09-17T14:03:33Z INFO service=inventory stock sync complete skus=675 duration_ms=57
+2026-09-17T14:03:34Z INFO service=catalog GET /products status=200 latency_ms=55 request_id=req-0215
+2026-09-17T14:03:35Z INFO service=metrics scrape complete targets=253 duration_ms=122
+2026-09-17T14:03:36Z INFO service=deploy checkout config rollback started max_connections=24 version=2026.09.17-a
+2026-09-17T14:03:37Z INFO service=recommendations feature cache refreshed entries=414 duration_ms=114
+2026-09-17T14:03:38Z INFO service=inventory stock sync complete skus=672 duration_ms=114
+2026-09-17T14:03:39Z INFO service=metrics checkout POST /orders 5xx_rate=0.00 db_pool_queued=0 window_seconds=30
+2026-09-17T14:03:40Z INFO service=catalog GET /products status=200 latency_ms=53 request_id=req-0221
+2026-09-17T14:03:41Z INFO service=auth token refresh status=ok latency_ms=4 session=s-0222
+2026-09-17T14:03:42Z INFO service=catalog GET /products status=200 latency_ms=69 request_id=req-0223
+2026-09-17T14:03:43Z INFO service=search index batch complete documents=435 duration_ms=112
+2026-09-17T14:03:44Z INFO service=notifications delivery batch complete sent=587 retries=0
+2026-09-17T14:03:45Z INFO service=metrics scrape complete targets=824 duration_ms=136
+2026-09-17T14:03:46Z INFO service=catalog GET /products status=200 latency_ms=9 request_id=req-0227
+2026-09-17T14:03:47Z INFO service=metrics scrape complete targets=757 duration_ms=85
+2026-09-17T14:03:48Z INFO service=metrics scrape complete targets=870 duration_ms=85
+2026-09-17T14:03:49Z INFO service=inventory stock sync complete skus=845 duration_ms=47
+2026-09-17T14:03:50Z INFO service=search index batch complete documents=653 duration_ms=84
+2026-09-17T14:03:51Z INFO service=auth token refresh status=ok latency_ms=71 session=s-0232
+2026-09-17T14:03:52Z INFO service=recommendations feature cache refreshed entries=153 duration_ms=117
+2026-09-17T14:03:53Z INFO service=auth token refresh status=ok latency_ms=9 session=s-0234
+2026-09-17T14:03:54Z INFO service=recommendations feature cache refreshed entries=196 duration_ms=132
+2026-09-17T14:03:55Z INFO service=notifications delivery batch complete sent=640 retries=0
+2026-09-17T14:03:56Z INFO service=catalog GET /products status=200 latency_ms=4 request_id=req-0237
+2026-09-17T14:03:57Z INFO service=recommendations feature cache refreshed entries=713 duration_ms=99
+2026-09-17T14:03:58Z INFO service=notifications delivery batch complete sent=141 retries=0
+2026-09-17T14:03:59Z INFO service=search index batch complete documents=247 duration_ms=52

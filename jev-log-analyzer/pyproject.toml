@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "jev-log-analyzer"
+version = "0.1.0"
+description = "Jev-powered relevance filtering for investigation logs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["typesafe-sdk>=0.6,<1", "mcp>=1,<2", "python-dotenv>=1,<2"]
+
+[project.scripts]
+jev-log-analyzer = "jev_log_analyzer.cli:main"
+jev-log-analyzer-mcp = "jev_log_analyzer.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/jev_log_analyzer"]
